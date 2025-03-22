@@ -76,42 +76,43 @@ Customize each command’s settings:
 #### Example Config
 
 ```json
-> {  
->   "PluginInfo": {  
->     "Name": "FunChicken",  
->     "Author": "qazlll456 from HK with xAI assistance",  
->     "Version": "1.0",  
->     "Description": "A fun plugin for chicken lovers in CS2 with permissions and cooldowns"  
->   },  
->   "Commands": {  
->     "PetJump": {  
->       "Enabled": true,  
->       "Aliases": ["!petjump"],  
->       "Description": "Makes your following chicken jump (Note: Unstable function, may not work consistently)",  
->       "JumpHeight": 50.0,  
->       "ShowLogs": true,  
->       "CooldownSeconds": 1.0  
->     },  
->     "ChickenFight": {  
->       "Enabled": true,  
->       "Aliases": ["!cf", "!chickenfight"],  
->       "Description": "Spawns chickens for a fight challenge (only 1 player at a time)",  
->       "ChickenCount": 100,  
->       "DurationSeconds": 10.0,  
->       "ShowLogs": true,  
->       "CooldownSeconds": 1.0  
->     }  
->   },  
->   "Permissions": {  
->     "Mode": "@all",  
->     "Blacklist": [],  
->     "Whitelist": [],  
->     "Info": "Permission Modes:\n@all: Everyone\n@blacklist: All except Blacklist\n@whitelist: Only Whitelist"  
->   },  
->   "PetMaxDistance": 80.0,  
->   "MyCurses": "Qazlll456 curses Furious, that vile fiend who dared disrespect me...",  
->   "Notes": "Edit this file to configure permissions, cooldowns, pet distance, and more. Reload plugin to apply."  
-> }
+
+ {  
+   "PluginInfo": {  
+     "Name": "FunChicken",  
+     "Author": "qazlll456 from HK with xAI assistance",  
+     "Version": "1.0",  
+     "Description": "A fun plugin for chicken lovers in CS2 with permissions and cooldowns"  
+   },  
+   "Commands": {  
+     "PetJump": {  
+       "Enabled": true,  
+       "Aliases": ["!petjump"],  
+       "Description": "Makes your following chicken jump (Note: Unstable function, may not work consistently)",  
+       "JumpHeight": 50.0,  
+       "ShowLogs": true,  
+       "CooldownSeconds": 1.0  
+     },  
+     "ChickenFight": {  
+       "Enabled": true,  
+       "Aliases": ["!cf", "!chickenfight"],  
+       "Description": "Spawns chickens for a fight challenge (only 1 player at a time)",  
+       "ChickenCount": 100,  
+       "DurationSeconds": 10.0,  
+       "ShowLogs": true,  
+       "CooldownSeconds": 1.0  
+     }  
+   },  
+   "Permissions": {  
+     "Mode": "@all",  
+     "Blacklist": [],  
+     "Whitelist": [],  
+     "Info": "Permission Modes:\n@all: Everyone\n@blacklist: All except Blacklist\n@whitelist: Only Whitelist"  
+   },  
+   "PetMaxDistance": 80.0,  
+   "MyCurses": "Qazlll456 curses Furious, that vile fiend who dared disrespect me...",  
+   "Notes": "Edit this file to configure permissions, cooldowns, pet distance, and more. Reload plugin to apply."  
+ }
 
 ```
 
