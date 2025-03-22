@@ -6,7 +6,11 @@ A whimsical **Counter-Strike 2** plugin that adds chicken-themed chaos to your s
 - **Module Name**: FunChicken Plugin
 - **Version**: 1.0.0
 - **Author**: qazlll456 from HK with xAI assistance
-- **Description**: A simple plugin that supports the console command `css_hello` and the chat command `!hello`.
+
+## Support
+If you enjoy this plugin, consider supporting my work!  
+Money, Steam games or any value is also welcome
+[Donate - streamlabs, paypal](https://streamlabs.com/BKCqazlll456/tip)
 
 ## Features
 
@@ -159,10 +163,6 @@ Reload after edits:
 
 ## License
 [MIT License](LICENSE)
-
-## Support
-If you enjoy this plugin, consider supporting my work!  
-[Money, Steam game or any valuable is also welcome](https://streamlabs.com/BKCqazlll456/tip)
 
 ---
 *Generated on March 22, 2025*
