@@ -2,6 +2,12 @@
 
 A whimsical **Counter-Strike 2** plugin that adds chicken-themed chaos to your server! Spawn personal pet chickens that follow you, create static chickens, or engage in a wild chicken fight—all powered by [CounterStrikeSharp (CSSHARP)](https://github.com/roflmuffin/CounterStrikeSharp). Features a robust permission system, cooldowns, extensive configurability, and a fiery curse against the infamous "Furious"!
 
+## Overview
+- **Module Name**: FunChicken Plugin
+- **Version**: 1.0.0
+- **Author**: qazlll456 from HK with xAI assistance
+- **Description**: A simple plugin that supports the console command `css_hello` and the chat command `!hello`.
+
 ## Features
 
 - **Following Chicken Pets**: Spawn a personal chicken that follows players with smooth movement and periodic jumping (teleports if too far).
@@ -16,8 +22,10 @@ A whimsical **Counter-Strike 2** plugin that adds chicken-themed chaos to your s
 ## Installation
 
 ### Prerequisites
-- A CS2 server with [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) installed.
-- Admin access to the server.
+To use this plugin, you need:
+- **Counter-Strike 2 Dedicated Server**: A running CS2 server.
+- **Metamod:Source**: Installed on your server for plugin support. Download from [sourcemm.net](https://www.sourcemm.net/).
+- **CounterStrikeSharp**: The C# plugin framework for CS2. Download the latest version from [GitHub releases](https://github.com/roflmuffin/CounterStrikeSharp/releases) (choose the "with runtime" version if it’s your first install).
 
 ### Steps
 1. Download the latest release from [Releases](https://github.com/[your-username]/FunChicken/releases) or clone the repo:  
@@ -148,11 +156,6 @@ Reload after edits:
 - **Unstable Feature**: `!petjump` is experimental and may fail due to timing or engine issues—use cautiously.  
 - **Performance**: High chicken counts (e.g., 100 in `!chickenfight`) may lag on weaker servers.  
 - **Curse Text**: A creative rant by qazlll456 against "Furious"—keep it for fun or remove it.
-
-## Credits
-- **Author**: qazlll456 from HK  
-- **Assistance**: xAI’s Grok  
-- **Framework**: [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp)
 
 ## License
 [MIT License](LICENSE)
