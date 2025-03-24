@@ -159,7 +159,11 @@ Reload after edits:
 ## Notes
 - **Unstable Feature**: `!petjump` is experimental and may fail due to timing or engine issues—use cautiously.  
 - **Performance**: High chicken counts (e.g., 100 in `!chickenfight`) may lag on weaker servers.  
-- **Curse Text**: A creative rant by qazlll456 against "Furious"—keep it for fun or remove it.
+- **Curse Text**: A creative rant by qazlll456 against "Furious"
+
+The text:
+Qazlll456 curses Furious, that vile fiend who dared disrespect me and shatter my sacred playtime! I forged this plugin as a blazing vessel to unleash my righteous fury. With this dark spell, I chain you to relentless torment may your luck decay into dust, your games collapse in ruin, your life fracture into a howling abyss,and agony stalk you until your final, wretched breath! If you read this and wanted to use this software, you join my unholy pact against him proclaim in your tongue, with a mind ablaze and locked on me, I will curse him with you too! This will remotely connect me on a spiritual level, enhancing the curses power more and more as more people join together. This is a public spell for all who agree with me and his enemies. You dont need to remove this statement, you can just leave it here, and ignore if you dont like it. If you feel bad, please pay me for my work streamlabs.com/BKCqazlll456/tip or I will curse you too to remove these words from the software.
+以吾海青風之名 借天地之力 集此世界他國土眾有智有靈生命之信仰念力 重聚於東方南起天角後土之地 由吾願力 集他願力 凝願力以滴水之功 滅魔 從眾生之報幸得解脫 到彼岸 離五行至此於魔分離 一切淨土.
 
 ## License
 [MIT License](LICENSE)
