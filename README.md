@@ -7,10 +7,12 @@ A whimsical **Counter-Strike 2** plugin that adds chicken-themed chaos to your s
 - **Version**: 1.0.0
 - **Author**: qazlll456 from HK with xAI assistance
 
-## Support
-If you enjoy this plugin, consider supporting my work!  
-Money, Steam games or any value is also welcome
-[Donate - streamlabs, paypal](https://streamlabs.com/BKCqazlll456/tip)
+## Donate
+If you enjoy it and find it helpful, consider donating to me! Every bit helps me keep developing.
+Money, Steam games, or any valuable contribution is welcome.
+- **Ko-fi**: [Support on Ko-fi](https://ko-fi.com/qazlll456)
+- **Patreon**: [Become a Patron](https://www.patreon.com/c/qazlll456)
+- **Streamlabs**: [Tip via Streamlabs](https://streamlabs.com/BKCqazlll456/tip)
 
 ## Features
 
